@@ -1,0 +1,6 @@
+{
+  "name": "Next Cart",
+  "description": "A complete Flipkart-style Indian multi-vendor e-commerce marketplace featuring buyer, seller, and admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
